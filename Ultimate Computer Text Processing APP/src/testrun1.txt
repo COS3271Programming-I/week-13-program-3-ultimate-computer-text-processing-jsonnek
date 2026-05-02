@@ -1,0 +1,59 @@
+/Users/jonathansonnek/Library/Java/JavaVirtualMachines/openjdk-25.0.2/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=59913 -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/jonathansonnek/Documents/GitHub/week-13-program-3-ultimate-computer-text-processing-jsonnek/out/production/Ultimate Computer Text Processing APP Main
+Welcome to Ultimate Computer!
+Which app would you like to run?
+1) Display APP
+2) Text Art APP
+3) Calculator APP
+4) Binary Calculator APP
+5) Encouragement APP
+6) Dice APP
+7) Oppish APP
+8) Fibonacci APP
+9) Double Factorial APP
+0) Exit
+Enter choice:
+1
+	The light shines in the darkness
+and the darkness has not overcome it.
+                                John 1:5
+Welcome to Ultimate Computer!
+Which app would you like to run?
+1) Display APP
+2) Text Art APP
+3) Calculator APP
+4) Binary Calculator APP
+5) Encouragement APP
+6) Dice APP
+7) Oppish APP
+8) Fibonacci APP
+9) Double Factorial APP
+0) Exit
+Enter choice:
+4
+Enter a number in binary: 1101
+Enter a second number in binary: 001
+Select operation (1-5)
+1:Addition, 2:Subtraction, 3:Multiplication, 4:Division, 5:All operations:
+5
+Sum is : 1110
+Difference is : 1100
+Product is : 1101
+Quotient is : 1101
+Welcome to Ultimate Computer!
+Which app would you like to run?
+1) Display APP
+2) Text Art APP
+3) Calculator APP
+4) Binary Calculator APP
+5) Encouragement APP
+6) Dice APP
+7) Oppish APP
+8) Fibonacci APP
+9) Double Factorial APP
+0) Exit
+Enter choice:
+0
+Thank you for using Ultimate Computer!
+
+Process finished with exit code 0
+

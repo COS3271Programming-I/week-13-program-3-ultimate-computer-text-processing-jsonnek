@@ -1,0 +1,52 @@
+/Users/jonathansonnek/Library/Java/JavaVirtualMachines/openjdk-25.0.2/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=59950 -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/jonathansonnek/Documents/GitHub/week-13-program-3-ultimate-computer-text-processing-jsonnek/out/production/Ultimate Computer Text Processing APP Main
+Welcome to Ultimate Computer!
+Which app would you like to run?
+1) Display APP
+2) Text Art APP
+3) Calculator APP
+4) Binary Calculator APP
+5) Encouragement APP
+6) Dice APP
+7) Oppish APP
+8) Fibonacci APP
+9) Double Factorial APP
+0) Exit
+Enter choice:
+7
+Enter a sentence:
+My name is jonathan, i like to eat pizza.
+Moppy noppamoppe is jopponoppathoppan, i loppikoppe toppo eat poppizzoppa.
+Welcome to Ultimate Computer!
+Which app would you like to run?
+1) Display APP
+2) Text Art APP
+3) Calculator APP
+4) Binary Calculator APP
+5) Encouragement APP
+6) Dice APP
+7) Oppish APP
+8) Fibonacci APP
+9) Double Factorial APP
+0) Exit
+Enter choice:
+9
+Please enter a number:
+5
+15
+Welcome to Ultimate Computer!
+Which app would you like to run?
+1) Display APP
+2) Text Art APP
+3) Calculator APP
+4) Binary Calculator APP
+5) Encouragement APP
+6) Dice APP
+7) Oppish APP
+8) Fibonacci APP
+9) Double Factorial APP
+0) Exit
+Enter choice:
+0
+Thank you for using Ultimate Computer!
+
+Process finished with exit code 0
